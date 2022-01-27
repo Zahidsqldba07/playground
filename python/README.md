@@ -2,6 +2,6 @@
 * Arcade Universe
   * Intro
     * The Journey Begins
-      * add
+      * [add](https://github.com/dacodekid/playground/tree/main/python/add)
       * centuryFromYear
       * checkPalindrome
