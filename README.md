@@ -18,6 +18,7 @@ Exercises found from various Code Challenge sites:
 
       * [Smooth Sailing](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/smooth_sailing)
         * [adjacentElementsProduct](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/smooth_sailing/all_ongest_strings)
+        * [commonCharacterCount](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/smooth_sailing/common_character_count)
 
 * Project Euler
 * HackerRank
