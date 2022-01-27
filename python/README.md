@@ -3,5 +3,5 @@
   * Intro
     * The Journey Begins
       * [add](https://github.com/dacodekid/playground/tree/main/python/add)
-      * centuryFromYear
+      * [centuryFromYear](https://github.com/dacodekid/playground/tree/main/python/century_from_year)
       * checkPalindrome
