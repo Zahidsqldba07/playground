@@ -14,6 +14,10 @@ Exercises found from various Code Challenge sites:
         * [shapeArea](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/edge_of_the_ocean/python/shape_area)
         * [Make Array Consecutive 2](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/edge_of_the_ocean/python/make_array_consecutive)
         * [almostIncreasingSequence](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/edge_of_the_ocean/python/almost_increasing_sequence)
+        * [matrixElementsSum](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/edge_of_the_ocean/python/matrix_elements_sum)
+
+      * [Smooth Sailing](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/smooth_sailing)
+        * [adjacentElementsProduct](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/smooth_sailing/all_ongest_strings)
 
 * Project Euler
 * HackerRank
