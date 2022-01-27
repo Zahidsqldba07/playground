@@ -1,26 +1,35 @@
-# Make Array Consecutive 2 ([CodeSignal](https://app.codesignal.com/arcade/intro/level-2/bq2XnSr5kbHqpHGJC))
+# almostIncreasingSequence ([CodeSignal](https://app.codesignal.com/arcade/intro/level-2/2mxbGwLzvkTCKAJMG))
 
-Ratiorg got `statues` of _different_ sizes as a present from CodeMaster for his birthday, each statue having an non-negative integer size. Since he likes to make things perfect, he wants to arrange them from smallest to largest so that each statue will be bigger than the previous one exactly by `1`. He may need some additional statues to be able to accomplish that. Help him figure out the minimum number of additional statues needed.
+```
+Probably the most *down voted* question as it wasn't clear and test cases are bad. Posting someone else's solution here that "works".
+```
+
+Given a sequence of integers as an array, determine whether it is possible to obtain a strictly increasing sequence by removing no more than one element from the array.
+
+_Note:_ sequence `a0`, `a1`, ..., `an` is considered to be a strictly increasing if `a0 < a1 < ... < an`. Sequence containing only one element is also considered to be strictly increasing.
 
 ### Example
-For `statues = [6, 2, 3, 8]`, the output should be
-`solution(statues) = 3`.
+*   For `sequence = [1, 3, 2, 1]`, the output should be
+    `solution(sequence) = false`.
 
-Ratiorg needs statues of sizes `4`, `5` and `7`.
+    There is no one element in this array that can be removed in order to get a strictly increasing sequence.
+
+*   For `sequence = [1, 3, 2]`, the output should be
+    `solution(sequence) = true`.
+
+    You can remove `3` from the array to get the strictly increasing sequence `[1, 2]`. Alternately, you can remove `2` to get the strictly increasing sequence `[1, 3]`.
 
 
 ### Input/Output
 
 *   **\[execution time limit\] 4 seconds (py3)**
 
-*   **\[input\] array.integer statues**
-
-    An array of _distinct_ non-negative integers.
+*   **\[input\] array.integer sequence**
 
     _Guaranteed constraints:_
-    `1 ≤ statues.length ≤ 10`,
-    `0 ≤ statues[i] ≤ 20`.
+    `2 ≤ sequence.length ≤ 105`,
+    `-105 ≤ sequence[i] ≤ 105`.
 
-*   **\[output\] integer**
+*   **\[output\] boolean**
 
-    The minimal number of statues that need to be added to existing `statues` such that it contains every integer size from an interval `[L, R]` (for some `L, R`) and no other sizes.
+    Return `true` if it is possible to remove one element from the array in order to get a strictly increasing sequence, otherwise return `false`.

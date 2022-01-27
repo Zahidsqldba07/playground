@@ -13,6 +13,7 @@ Exercises found from various Code Challenge sites:
         * [adjacentElementsProduct](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/edge_of_the_ocean/adjacent_elements_product)
         * [shapeArea](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/edge_of_the_ocean/python/shape_area)
         * [Make Array Consecutive 2](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/edge_of_the_ocean/python/make_array_consecutive)
+        * [almostIncreasingSequence](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/edge_of_the_ocean/python/almost_increasing_sequence)
 
 * Project Euler
 * HackerRank
