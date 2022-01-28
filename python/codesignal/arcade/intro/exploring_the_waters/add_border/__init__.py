@@ -1,4 +1,4 @@
-def solution(picture):
+def solution_01(picture):
     length = len(picture)
     width = len(picture[0])
     frame = [['*'] * (width + 2) for _ in range(length + 2)]
@@ -14,4 +14,9 @@ def solution(picture):
     return new_picture
 
 
-print(solution(["abc", "ded"]))
+def solution_02(picture):
+    length = len(picture)[0]
+    picture.insert(0, ['*'] * (length + 2))
+
+
+print(solution_02(["abc", "ded"]))
