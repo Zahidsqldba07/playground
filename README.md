@@ -20,6 +20,7 @@ Exercises found from various Code Challenge sites:
         * [adjacentElementsProduct](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/smooth_sailing/all_ongest_strings)
         * [commonCharacterCount](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/smooth_sailing/common_character_count)
         * [isLucky](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/smooth_sailing/is_lucky)
+        * [Sort by Height](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/smooth_sailing/sort_by_eight)
 
 * Project Euler
 * HackerRank
