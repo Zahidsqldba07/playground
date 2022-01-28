@@ -15,8 +15,10 @@ def solution_01(picture):
 
 
 def solution_02(picture):
-    length = len(picture)[0]
-    picture.insert(0, ['*'] * (length + 2))
+    frame = '*' * (len(picture[0]) + 2)
+    for i in range(len(picture)):
+        picture[i] = '*' + picture[i] + '*'
+    return [frame] + picture + [frame]
 
 
 print(solution_02(["abc", "ded"]))
