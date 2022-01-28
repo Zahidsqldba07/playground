@@ -17,11 +17,15 @@ Exercises found from various Code Challenge sites:
         * [matrixElementsSum](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/edge_of_the_ocean/python/matrix_elements_sum)
 
       * [Smooth Sailing](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/smooth_sailing)
-        * [adjacentElementsProduct](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/smooth_sailing/all_ongest_strings)
+        * [adjacentElementsProduct](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/smooth_sailing/all_longest_strings)
         * [commonCharacterCount](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/smooth_sailing/common_character_count)
         * [isLucky](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/smooth_sailing/is_lucky)
-        * [Sort by Height](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/smooth_sailing/sort_by_eight)
+        * [Sort by Height](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/smooth_sailing/sort_by_height)
         * [reverseInParentheses](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/smooth_sailing/reverse_in_parentheses)
+
+      * [Exploring the Waters](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/exploring_the_waters)
+        * [alternatingSums](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/smooth_sailing/alternating_sums)
+        * [Add Border](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/smooth_sailing/add_border)
 
 * Project Euler
 * HackerRank
