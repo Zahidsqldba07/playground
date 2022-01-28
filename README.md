@@ -1,8 +1,7 @@
 # Playground
 Exercises found from various Code Challenge sites:
 
-<details>
-<summary>* [CodeSignal](https://github.com/dacodekid/playground/tree/main/python/codesignal)<summary>
+* [CodeSignal](https://github.com/dacodekid/playground/tree/main/python/codesignal)
   * [Arcade](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade)
     * [Intro](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro)
       * [The Journey Begins](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/the_journey_begins)
@@ -28,7 +27,6 @@ Exercises found from various Code Challenge sites:
         * [alternatingSums](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/smooth_sailing/alternating_sums)
         * [Add Border](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/smooth_sailing/add_border)
         * [Are Similar](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/smooth_sailing/are_similar)
-<details>
 
 * Project Euler
 * HackerRank
