@@ -26,7 +26,7 @@ Exercises found from various Code Challenge sites:
       * [Exploring the Waters](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/exploring_the_waters)
         * [alternatingSums](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/smooth_sailing/alternating_sums)
         * [Add Border](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/smooth_sailing/add_border)
-        * [Add Border](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/smooth_sailing/are_similar)
+        * [Are Similar](https://github.com/dacodekid/playground/tree/main/python/codesignal/arcade/intro/smooth_sailing/are_similar)
 
 * Project Euler
 * HackerRank
